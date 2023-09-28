@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.2fdff5ba.css",
+    "main.js": "/React-Portfolio/static/js/main.4392f371.js",
+    "static/media/image.png": "/React-Portfolio/static/media/image.106ac810316460090cbc.png",
+    "static/media/portfolio-6.png": "/React-Portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/Mohamad Alghoul (4) (1).pdf": "/React-Portfolio/static/media/Mohamad Alghoul (4) (1).f6d7ac188b9fab0a6c34.pdf",
+    "static/media/portfolio-2.png": "/React-Portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/logo.png": "/React-Portfolio/static/media/logo.a70c4871f9680ac3e9bf.png",
+    "static/media/portfolio-4.png": "/React-Portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/ui-design.png": "/React-Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.2fdff5ba.css.map": "/React-Portfolio/static/css/main.2fdff5ba.css.map",
+    "main.4392f371.js.map": "/React-Portfolio/static/js/main.4392f371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fdff5ba.css",
+    "static/js/main.4392f371.js"
+  ]
+}
