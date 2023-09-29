@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Mo2888/protoflio/static/css/main.266020b0.css",
-    "main.js": "/Mo2888/protoflio/static/js/main.57fa6d46.js",
-    "static/media/image.png": "/Mo2888/protoflio/static/media/image.106ac810316460090cbc.png",
-    "static/media/portfolio-6.png": "/Mo2888/protoflio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
-    "static/media/Mohamad Alghoul (4) (1).pdf": "/Mo2888/protoflio/static/media/Mohamad Alghoul (4) (1).f6d7ac188b9fab0a6c34.pdf",
-    "static/media/portfolio-2.png": "/Mo2888/protoflio/static/media/portfolio-2.33d06b368b4e6395030e.png",
-    "static/media/logo.png": "/Mo2888/protoflio/static/media/logo.a70c4871f9680ac3e9bf.png",
-    "static/media/portfolio-4.png": "/Mo2888/protoflio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
-    "static/media/ui-design.png": "/Mo2888/protoflio/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "index.html": "/Mo2888/protoflio/index.html",
-    "main.266020b0.css.map": "/Mo2888/protoflio/static/css/main.266020b0.css.map",
-    "main.57fa6d46.js.map": "/Mo2888/protoflio/static/js/main.57fa6d46.js.map"
+    "main.css": "/protoflio/static/css/main.266020b0.css",
+    "main.js": "/protoflio/static/js/main.dc94ee80.js",
+    "static/media/image.png": "/protoflio/static/media/image.106ac810316460090cbc.png",
+    "static/media/portfolio-6.png": "/protoflio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/Mohamad Alghoul (4) (1).pdf": "/protoflio/static/media/Mohamad Alghoul (4) (1).f6d7ac188b9fab0a6c34.pdf",
+    "static/media/portfolio-2.png": "/protoflio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/logo.png": "/protoflio/static/media/logo.a70c4871f9680ac3e9bf.png",
+    "static/media/portfolio-4.png": "/protoflio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/ui-design.png": "/protoflio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/protoflio/index.html",
+    "main.266020b0.css.map": "/protoflio/static/css/main.266020b0.css.map",
+    "main.dc94ee80.js.map": "/protoflio/static/js/main.dc94ee80.js.map"
   },
   "entrypoints": [
     "static/css/main.266020b0.css",
-    "static/js/main.57fa6d46.js"
+    "static/js/main.dc94ee80.js"
   ]
 }
