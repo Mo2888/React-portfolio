@@ -11,13 +11,12 @@ const Portfolio = () => {
    </div>
     <div className='portBox'>
     {portfolio.map((serv,index)=>{
-      const {img,name,url}= serv;
+      const {img,name,url,des}= serv;
 return <div key={index} className='portItem'>
-         <div className='img'>
             <img src={img} alt={name} />
-         </div>
          <div className='infoPorto'>
          <h2>{name}</h2>
+         <p>{des}</p>
          <Link className="project" href={url}>Show more</Link>
          </div>
 </div>

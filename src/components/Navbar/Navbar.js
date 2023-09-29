@@ -16,7 +16,7 @@ const Navbar = () => {
           <button className='btn toggle-btn' onClick={openSidebar}>
             <FaBars />
           </button>
-        </div>
+      
         <ul className='nav-links'>
           <li>
         <Link activeClass='active' to="home" spy={true} offset={-100} duration={500} >Home</Link>
@@ -31,6 +31,7 @@ const Navbar = () => {
           <Link activeClass='active' to="portfolio" spy={true} offset={-100} duration={500} >Portfolio</Link>
           </li>
         </ul>
+        </div>
         <button className='signin-btn' onClick={()=>{
           document.getElementById("contact").scrollIntoView();
         }}>Contact As</button>

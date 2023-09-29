@@ -5,14 +5,17 @@ margin: 0 auto;
 height:calc(100vh - 5rem);
 overflow: hidden;
 position: relative;
+padding-left: 20px;
 }
 .introImg{
-    object-fit:cover;
+    object-fit: cover;
     position: absolute;
     z-index: -1;
-    top: -4rem;
+    top: 0rem;
     right: -12rem;
-    height: 100vh;
+}
+.introImg img{
+    height: 1000px;
 }
 .introconteant{
     height: 100vh;
@@ -33,6 +36,7 @@ position: relative;
 .introPara{
     font-size: medium;
     line-height: 1.4;
+    margin: 1rem 0;
 }
 a{
     text-decoration: none;
@@ -60,8 +64,8 @@ height: 1rem;
 @media screen and (max-width: 800px){
 
     .introImg{
-        top: -5rem;
-        right: -26rem;
+        top: -3rem;
+        right: -21rem;
    
     }
     .btni{

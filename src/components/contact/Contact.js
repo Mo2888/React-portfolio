@@ -3,7 +3,6 @@ import './contact.css'
 import { AiFillGithub,AiFillLinkedin,AiOutlineLeft } from "react-icons/ai";
 import emailjs from '@emailjs/browser';
 
-
 const Contact = () => {
   const form = useRef();
 
@@ -34,7 +33,7 @@ const Contact = () => {
         <ul className='social'>
             <li><a href='https://github.com/Mo2888'><AiFillGithub/></a></li>
              <li><a href='https://www.linkedin.com/in/mohamad-alghoul-6abaa4285'><AiFillLinkedin/></a></li>
-            <li><AiOutlineLeft /> <span>...check more</span></li>
+            <li><AiOutlineLeft /> <span >...check more</span></li>
         </ul>
         </div>
   </section>

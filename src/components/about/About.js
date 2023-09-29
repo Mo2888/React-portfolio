@@ -1,6 +1,7 @@
 import React from 'react'
 import "./about.css"
 import { skills } from '../../data'
+import {motion} from "framer-motion"
 const About = () => {
   return ( <section id='about'>
     <div className='container'>
@@ -18,13 +19,15 @@ const About = () => {
     <div className='skillsBars'>
     {skills.map((skill,index)=>{
 const {img,text,des}=skill
-return <div key={index} className='skillsBar'>
+return <motion.div key={index} className='skillsBar' 
+    
+        >
 <img  src={img} alt={text}/>
 <div className='skillText'>
 <h3>{text}</h3>
 <p>{des}</p>
 </div>
-</div>
+</motion.div>
     }
     )}
        
